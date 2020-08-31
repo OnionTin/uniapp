@@ -6,7 +6,7 @@
 ### 项目启动
 
 #### 安装依赖
-cnpm install
+cnpm install -D vuepress
 
 #### 运行
 npm run dev
