@@ -12,7 +12,7 @@ module.exports = {
       { text: 'uni-app开发搜索文档', link: 'https://www.kancloud.cn/zengqs1976/uni-app/1176108' },
       { text: 'knobe', link: 'https://wechat-miniprogram.github.io/kbone/docs/' }
     ],
-    sidebarDepth: 4, // 侧边栏显示2级
+    sidebarDepth: 2, // 侧边栏显示2级
     sidebar: [
       {
         title: 'uni-app',
